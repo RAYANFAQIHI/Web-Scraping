@@ -32,8 +32,8 @@ and `BeautifulSoup`.
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/your-repo-name.git  
-    cd your-repo-name
+    git clone (https://github.com/RAYANFAQIHI/Web-Scraping)
+  
 
 2. (Optional) Create and activate a virtual environment:
 
@@ -92,17 +92,3 @@ row represents one movie with columns:
 - `title`
 - `rating`
 - `votes`
-
----
-
-## Notes
-
-- This project is for **educational purposes only**.
-- Always respect website **Terms of Service** and `robots.txt`.
-- Avoid sending too many requests in a short period.
-
----
-
-## License
-
-This project is licensed under the **MIT License** (or any license you prefer).
